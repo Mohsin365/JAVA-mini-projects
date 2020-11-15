@@ -1,0 +1,4 @@
+TimeEST,TemperatureF,Dew PointF,Humidity,Sea Level PressureIn,VisibilityMPH,Wind Direction,Wind SpeedMPH,Gust SpeedMPH,PrecipitationIn,Events,Conditions,WindDirDegrees,DateUTC
+12:51 AM,39.2,33.8,81,30.15,10.0,Calm,Calm,-,N/A,,Clear,0,2012-01-01 05:51:00
+1:51 AM,39.2,33.8,81,30.16,10.0,Calm,Calm,-,N/A,,Clear,0,2012-01-01 06:51:00
+2:51 AM,39.0,34.0,82,30.15,10.0,Calm,Calm,-,N/A,,Clear,0,2012-01-01 07:51:00

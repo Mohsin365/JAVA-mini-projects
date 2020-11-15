@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=part3
+comment1.params=stringA\ stringB
+comment1.target=boolean\ twoOccurrences(java.lang.String,\ java.lang.String)
+comment2.params=
+comment2.target=void\ testtwoOOcurrences()
+numComments=3
